@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 
-**abdullah-al-mohammad/abdullah-al-mohammad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**abdullah-al-mohammad/abdullah-al-mohammad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.![AI-Powered Notes](https://github.com/user-attachments/assets/5304e9d6-bb62-4198-ad54-acdf173d56e8)
+
 
 Here are some ideas to get you started:
 
