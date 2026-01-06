@@ -13,7 +13,7 @@
     <a href="https://www.linkedin.com/in/mphomphego"><img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="linkedin"/></a>
 </p>
 
-<p align="center">I’m a self-taught developer with strong practical experience gained through online courses and real-world projects. I focus on building scalable MERN applications, learning modern tools, and continuously improving my skills.</p>
+<p align="center">I’m a full-stack developer with strong practical experience gained through online courses and real-world projects. I focus on building scalable MERN applications, learning modern tools, and continuously improving my skills.</p>
 <p align="center">🔭 Working on MERN stack applications</p>
 <p align="center">🌱 Learning Next.js & TypeScript</p>
 <p align="center">💬 Ask me about React & JavaScript</p>
