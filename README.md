@@ -20,8 +20,15 @@
 <p align="center">💬 Ask me about React & JavaScript</p>
 <p align="center">⚡ Fun fact: Self-taught developer 🚀<p/>
 
-<p>
-  <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
-  <a href="https://reactjs.org/" title="React"><img src="icons/react.png" /></a>
-  <a href="https://tailwindcss.com/" title="React"><img src="icons/tailwind.png" /></a>
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48"/>
+  </a>
+  <a href="https://reactjs.org/" title="React">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48"/>
+  </a>
+  <a href="https://tailwindcss.com/" title="Tailwind CSS">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="48"/>
+  </a>
 </p>
+
