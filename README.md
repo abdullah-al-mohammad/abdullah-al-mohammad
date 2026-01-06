@@ -5,8 +5,13 @@
 </h1>
 
  #### 📫 How to reach me:
-  
- <P align='center'> [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/adityapal1/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/abdullah.al.muhammad.482009)  &nbsp; <a href="mailto:aditya.pal.science@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/></P>
+
+  <p align="center">
+  <a href="(https://www.facebook.com/abdullah.al.muhammad.482009"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/></a>
+  <a href= "https://dev.to/mmphego"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/></a>
+  <a href="mailto:abdullahalmuhammad6@gmail.com"><img src="https://img.icons8.com/color/32/000000/gmail.png" alt="email"/></a>
+  <a href="https://www.linkedin.com/in/mphomphego"><img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="linkedin"/></a>
+</p>
 
 
 Here are some ideas to get you started:
