@@ -1,5 +1,8 @@
-## Hi there 👋
-
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Md+Abdullah....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
 **abdullah-al-mohammad/abdullah-al-mohammad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.![AI-Powered Notes](https://github.com/user-attachments/assets/5304e9d6-bb62-4198-ad54-acdf173d56e8)
 
