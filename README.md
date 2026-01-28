@@ -18,7 +18,6 @@
 <p align="center">🔭 Working on MERN stack applications</p>
 <p align="center">🌱 Learning Next.js & TypeScript</p>
 <p align="center">💬 Ask me about React & JavaScript</p>
-<p align="center">⚡ Fun fact: Self-taught developer 🚀<p/>
 
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
